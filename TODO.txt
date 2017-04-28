@@ -1,0 +1,3 @@
+arrows need to work with offhand slot x
+stop armor bars reacting to air x
+improve loop efficiency, PLEASE
